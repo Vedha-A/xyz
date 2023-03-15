@@ -1,0 +1,27 @@
+.heading
+{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    text-align: left;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    font-size: 20px;
+}
+.heading h3
+{
+    font-size: 23px;
+    font-family: cursive;
+    display: inline;
+}
+.play_game
+{
+    font-size: 25px;
+    background-color:rgb(192, 182, 182);
+    border-radius: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
